@@ -1,7 +1,7 @@
 # The easiest way to sell online in india 🛒 
 
 ## Shopify Clone 
-*(for fun purpose)*
+*(for learning purpose)*
 
 **Languages uesd:-**
 
@@ -17,8 +17,8 @@
 
 - *It took me around 24 hours to complete the webpage.*
 
-# Live link of projects:
- [Shopify Clone]()
+
+# [Live Shopify Clone](https://aquamarine-lamington-4e5dcd.netlify.app/)
 
  ### Preview:
 
